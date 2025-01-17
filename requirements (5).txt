@@ -1,0 +1,8 @@
+yt-dlp~=2024.12.13
+requests~=2.32.3
+aiohttp~=3.10.10
+vk_api~=11.9.9
+python-telegram-bot~=21.7
+boto3~=1.35.63
+botocore~=1.35.63
+psycopg2-binary~=2.9.10

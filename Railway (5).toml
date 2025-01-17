@@ -1,0 +1,5 @@
+[build]
+command = "pip install -r requirements.txt"
+
+[deploy]
+command = "python main.py"  # Замените на название вашего файла, если оно другое
